@@ -53,8 +53,7 @@ llm_based_stockreport/
 │  ├─ app.py
 │  ├─ report_schema.py
 │  ├─ reporting_service.py
-│  ├─ tools_stock.py
-│  └─ df/
+│  └─ tools_stock.py
 ├─ requirements.txt
 ├─ pyproject.toml
 ├─ report_cache.db
